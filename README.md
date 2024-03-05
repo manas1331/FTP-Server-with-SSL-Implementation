@@ -3,17 +3,17 @@
 
 # Features are :
 
-### 1. Authentication: Users are required to authenticate themselves before accessing the server's functionalities, ensuring secure access control.
+### 1. <u>Authentication:</u> Users are required to authenticate themselves before accessing the server's functionalities, ensuring secure access control.
 
-### 2. Directory Listing: Users can list the contents of directories on the server, providing an organized view of available files and directories.
+### 2. <u>Directory Listing:</u> Users can list the contents of directories on the server, providing an organized view of available files and directories.
 
-### 3. Uploading: Users can upload files to the server, facilitating easy transfer of data from their local machines to the server.
+### 3. <u>Uploading:</u> Users can upload files to the server, facilitating easy transfer of data from their local machines to the server(in many formats including gif,png,mp4,jpeg,jpg,word,pptx,text etc.).
 
-### 4. Downloading: Users can download files from the server to their local machines, enabling retrieval of necessary data.
+### 4. <u>Downloading:</u> Users can download files from the server to their local machines, enabling retrieval of necessary data(in many formats including gif,png,mp4,jpeg,jpg,word,pptx,text etc.).
 
-### 5. Quitting Out: A safe quit mechanism is provided for users to exit the server gracefully, ensuring proper termination of connections and processes.
+### 5. <u>Quitting Out:</u> A safe quit mechanism is provided for users to exit the server gracefully, ensuring proper termination of connections and processes.
 
-### 6. SSL Encryption: SSL encryption is implemented to encrypt data transmitted between the server and clients, ensuring the confidentiality and integrity of transferred information.
+### 6. <u>SSL Encryption:</u> SSL encryption is implemented to encrypt data transmitted between the server and clients, ensuring the confidentiality and integrity of transferred information.
 
 # Contributing
 Contributions are welcome! Feel free to submit issues or pull requests with any improvements, bug fixes, or additional features.
