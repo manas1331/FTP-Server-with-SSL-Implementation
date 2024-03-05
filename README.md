@@ -3,17 +3,18 @@
 
 # Features are :
 
-### 1. <u>Authentication:</u> Users are required to authenticate themselves before accessing the server's functionalities, ensuring secure access control.
+### 1. <ins>Authentication:</ins> Users are required to authenticate themselves before accessing the server's functionalities, ensuring secure access control.
+        
 
-### 2. <u>Directory Listing:</u> Users can list the contents of directories on the server, providing an organized view of available files and directories.
+### 2. <ins>Directory Listing:</ins> Users can list the contents of directories on the server, providing an organized view of available files and directories.
 
-### 3. <u>Uploading:</u> Users can upload files to the server, facilitating easy transfer of data from their local machines to the server(in many formats including gif,png,mp4,jpeg,jpg,word,pptx,text etc.).
+### 3. <ins>Uploading:</ins> Users can upload files to the server, facilitating easy transfer of data from their local machines to the server(in many formats including gif,png,mp4,jpeg,jpg,word,pptx,text etc.).
 
-### 4. <u>Downloading:</u> Users can download files from the server to their local machines, enabling retrieval of necessary data(in many formats including gif,png,mp4,jpeg,jpg,word,pptx,text etc.).
+### 4. <ins>Downloading:</ins> Users can download files from the server to their local machines, enabling retrieval of necessary data(in many formats including gif,png,mp4,jpeg,jpg,word,pptx,text etc.).
 
-### 5. <u>Quitting Out:</u> A safe quit mechanism is provided for users to exit the server gracefully, ensuring proper termination of connections and processes.
+### 5. <ins>Quitting Out:</ins> A safe quit mechanism is provided for users to exit the server gracefully, ensuring proper termination of connections and processes.
 
-### 6. <u>SSL Encryption:</u> SSL encryption is implemented to encrypt data transmitted between the server and clients, ensuring the confidentiality and integrity of transferred information.
+### 6. <ins>SSL Encryption:</ins> SSL encryption is implemented to encrypt data transmitted between the server and clients, ensuring the confidentiality and integrity of transferred information.
 
 # Contributing
 Contributions are welcome! Feel free to submit issues or pull requests with any improvements, bug fixes, or additional features.
