@@ -20,7 +20,7 @@
 Contributions are welcome! Feel free to submit issues or pull requests with any improvements, bug fixes, or additional features.
 
 # License
-This project is licensed under the ```APACHE``` License.
+This project is licensed under the ```APACHE``` License. 
 
 
 
