@@ -1,11 +1,9 @@
-# Secure FTP Server
+# Secure FTP Server 
  This is a Secure FTP (File Transfer Protocol) server implementation with various features aimed at ensuring secure and efficient file transfer. The server incorporates authentication, directory listing, uploading, downloading, and a safe quit mechanism. Additionally, SSL (Secure Socket Layer) encryption is implemented to safeguard the confidentiality and integrity of user details and transferred data. 
 
 # Features are :
-
 ### 1. <ins>Authentication:</ins> Users are required to authenticate themselves before accessing the server's functionalities, ensuring secure access control.
         
-
 ### 2. <ins>Directory Listing:</ins> Users can list the contents of directories on the server, providing an organized view of available files and directories.
 
 ### 3. <ins>Uploading:</ins> Users can upload files to the server, facilitating easy transfer of data from their local machines to the server(in many formats including gif,png,mp4,jpeg,jpg,word,pptx,text etc.).
