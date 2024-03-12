@@ -15,17 +15,17 @@
 ### 6. <ins>SSL Encryption:</ins> SSL encryption is implemented to encrypt data transmitted between the server and clients, ensuring the confidentiality and integrity of transferred information.
 
 # Contributing
-Contributions are welcome! Feel free to submit issues or pull requests with any improvements, bug fixes, or additional features.
+### Contributions are welcome! Feel free to submit issues or pull requests with any improvements, bug fixes, or additional features.
 
 # License
-This project is licensed under the ```APACHE``` License. 
+### This project is licensed under the ```APACHE``` License. 
 
 # How does it look when executed
 ### 1)Start the server using python3 ```server.py``` in the command prompt.
 <br></br>
 ![image](https://github.com/1deringmanas1331/FTP-Server-with-SSL-Implementation/assets/122677792/a3b1915e-8f21-4c3f-b518-40a96c3351da)
 
-### 2)After this start the client and perform any of the operation listed above.
+### 2)After this start the client ```client.py``` and perform any of the operation listed above.
 <br></br>
 ![image](https://github.com/1deringmanas1331/FTP-Server-with-SSL-Implementation/assets/122677792/8d0781e3-12ba-4cea-af51-6217588e87d8)
 
